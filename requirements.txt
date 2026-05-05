@@ -1,0 +1,4 @@
+scapy
+PyQt6==6.10.0
+PyQt6-Qt6==6.10.0
+pyqtgraph
